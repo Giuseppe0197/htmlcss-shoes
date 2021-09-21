@@ -40,7 +40,9 @@ html {
 }
 
 .navigazione {
-    position: relative;
+    position: fixed;
+    top: 20px;
+    right: 0;
     z-index: 99;
 }
 
@@ -50,28 +52,7 @@ html {
     background-color: white;
     padding: 10px;
     border-radius: 50%;
-    position: fixed;
 }
-
-#primo-bottone {
-    position: fixed;
-    top: 10px;
-    right: 150px;
-}
-
-#secondo-bottone {
-    position: fixed;
-    top: 10px;
-    right: 100px;
-}
-
-#terzo-bottone {
-    position: fixed;
-    top: 10px;
-    right: 50px;
-}
-
-
 
 /* .pulsanti {
     right: 30px;
@@ -144,4 +125,5 @@ html {
     text-align: center;
     color: green;
 }
+
 
