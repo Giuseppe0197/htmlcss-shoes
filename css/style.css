@@ -53,8 +53,27 @@ html {
     position: fixed;
     top: 10px;
     right: 20px;
-    margin-right: 50px;
 }
+
+#primo-bottone {
+    position: fixed;
+    top: 10px;
+    right: 150px;
+}
+
+#secondo-bottone {
+    position: fixed;
+    top: 10px;
+    right: 100px;
+}
+
+#terzo-bottone {
+    position: fixed;
+    top: 10px;
+    right: 50px;
+}
+
+
 
 /* .pulsanti {
     right: 30px;
