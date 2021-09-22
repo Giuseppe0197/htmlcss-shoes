@@ -23,9 +23,9 @@ html {
 
 .prima img {
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 50%;
-    transform: translate(-50%, -20%);
+    transform: translate(-50%, -50%);
     width: 700px;
 }
 
@@ -33,7 +33,7 @@ html {
     position: absolute;
     top: 80%;
     left: 50%;
-    transform: translate(-50%, -80%);
+    transform: translate(-50%, -50%);
     font-size: 45px;
     text-align: center;
     color: yellow;
@@ -83,9 +83,9 @@ html {
 
 .seconda img {
     position: absolute;
-    top: 20%;
+    top: 40%;
     left: 50%;
-    transform: translate(-50%, -20%);
+    transform: translate(-50%, -50%);
     width: 700px;
 }
 
@@ -93,7 +93,7 @@ html {
     position: absolute;
     top: 80%;
     left: 50%;
-    transform: translate(-50%, -80%);
+    transform: translate(-50%, -50%);
     font-size: 45px;
     text-align: center;
     color: yellow;
@@ -110,17 +110,17 @@ html {
 
 .terza img {
     position: absolute;
-    top: 30%;
+    top: 40%;
     left: 50%;
-    transform: translate(-50%, -30%);
+    transform: translate(-50%, -50%);
     width: 700px;
 }
 
 .terza h2 {
     position: absolute;
-    top: 90%;
+    top: 80%;
     left: 50%;
-    transform: translate(-50%, -90%);
+    transform: translate(-50%, -50%);
     font-size: 45px;
     text-align: center;
     color: green;
